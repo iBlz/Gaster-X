@@ -1,5 +1,5 @@
 <?php
-$password = "admin";
+$password = "456745";
 session_start();
 
 if(isset($_POST['password']) && $_POST['pass']){
