@@ -5,8 +5,9 @@
 git clone https://github.com/Toxic-Omega/Gaster-X
 cd Gaster-X
 cp Gaster-X.php /var/www/html
-service apache2 start
-Then Go To "127.0.0.1/Gaster-X.php" And Login With Password "456745"
+cd /var/www/html
+php -S 5555
+Then Go To "127.0.0.1:5555/Gaster-X.php" And Login With Password "456745"
 ```
 ### Screenshot
 <br>
