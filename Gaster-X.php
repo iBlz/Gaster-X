@@ -100,7 +100,7 @@ else
 ?>
 </div>
 </div>
-<div align="center"><p>Made By <a href="https://teguh.co">Toxic Omega</a></p></div>
+<div align="center"><p>Made By <a href="https://github.com/Toxic-Omega">Toxic Omega</a></p></div>
 </body>
 
 
